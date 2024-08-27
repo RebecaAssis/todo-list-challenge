@@ -10,16 +10,16 @@ Este projeto foi criado com o intuito de compartilhar conhecimento com aqueles q
 
 O projeto contempla o desenvolvimento de uma simples ToDo List, onde o usuário tem a possibilidade de **criar**, **ler**, **atualizar** e **deletar** os itens da lista, e, você dev :superhero_woman:, poderá por em prática:
 
-:eight_spoked_asterisk: As 4 operações básicas utilizadas no desenvolvimento de uma aplicação: **C**REATE, **R**EAD, **U**PDATE e **D**ELETE
-:eight_spoked_asterisk: HTML, CSS (Scss) e Typescript
-:eight_spoked_asterisk: Estrutura de dados básica (manipulação de arrays e objetos)
-:eight_spoked_asterisk: Desenvolvimento (básico) utilizando Angular framework
-:eight_spoked_asterisk: Rotas (básico)
-:eight_spoked_asterisk: Compartilhamento de dados entre componentes (**@Input()** e **@Output()**)
-:eight_spoked_asterisk: Formulário Reativo (básico)
-:eight_spoked_asterisk: Requisições HTTP (básico)
-:eight_spoked_asterisk: RxJS (básico)
-:eight_spoked_asterisk: Testes unitários
+:eight_spoked_asterisk: As 4 operações básicas utilizadas no desenvolvimento de uma aplicação: **C**REATE, **R**EAD, **U**PDATE e **D**ELETE <br>
+:eight_spoked_asterisk: HTML, CSS (Scss) e Typescript <br>
+:eight_spoked_asterisk: Estrutura de dados básica (manipulação de arrays e objetos) <br>
+:eight_spoked_asterisk: Desenvolvimento (básico) utilizando Angular framework <br>
+:eight_spoked_asterisk: Rotas (básico) <br>
+:eight_spoked_asterisk: Compartilhamento de dados entre componentes (**@Input()** e **@Output()**) <br>
+:eight_spoked_asterisk: Formulário Reativo (básico) <br>
+:eight_spoked_asterisk: Requisições HTTP (básico) <br>
+:eight_spoked_asterisk: RxJS (básico) <br>
+:eight_spoked_asterisk: Testes unitários <br>
 
 E aí, vamos juntos? :hugs:
 
