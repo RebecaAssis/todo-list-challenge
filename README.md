@@ -152,10 +152,10 @@ Esse tutorial :point_up_2: da própria documentação do Angular tem meu coraç�
 * **Jasmine:** https://jasmine.github.io/tutorials/your_first_suite
 * **Tutorial testes unitários com Jasmine e Karma:** https://medium.com/@washinuchiha/teste-unit%C3%A1rios-do-zero-com-angular-14-jasmine-e-karma-8cdccc638e4a
 
-Obrigada por chegar até aqui! 
-Lembre-se: divulgue seus projetos e matenha o seu GitHub atualizado. Para quem ainda não possui experiência na área, é uma excelente forma de conhecerem o seu trabalho.
+Obrigada por chegar até aqui! <br>
+Lembre-se: divulgue seus projetos e matenha o seu GitHub atualizado. Para quem ainda não possui experiência na área, é uma excelente forma de conhecerem o seu trabalho. <br>
 Sucesso na sua jornada. :star_struck: :rocket: 
 
-Ah, se tiver dúvidas ou quiser bater um papo sobre Desenvolvimento Frontend me chama no LikedIn. Vou ficar feliz em ajudar. :wink:
+Ah, se tiver dúvidas ou quiser bater um papo sobre Desenvolvimento Frontend me chama no LikedIn. Vou ficar feliz em ajudar. :wink: <br>
 https://www.linkedin.com/in/rebeca-oliveira-assis/
 
