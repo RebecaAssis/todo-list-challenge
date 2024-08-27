@@ -1,0 +1,25 @@
+<form 
+    [formGroup]="form" 
+    class="d-flex flex-column align-items-center todo-input"
+>
+    <label for="" class="d-flex flex-column">
+        Título
+        <input 
+            formControlName="title" 
+            type="text" 
+            class="todo-input__title"
+        >
+    </label>
+    <label for="" class="d-flex flex-column">
+        Descrição
+        <textarea formControlName="text" name="" id="" rows="2" class="todo-input__text"></textarea>
+    </label>
+    <button 
+        type="button" 
+        [disabled]="!form.valid"
+        (click)="form.get('id')?.value ? updateTodo() : createTodo()" 
+        class="todo-input__button"
+    >
+        {{form.get('id')?.value ? 'Editar' : 'Criar'}}
+    </button>
+</form>

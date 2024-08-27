@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": 3,
+      "title": "Desenvolver desafio Angular",
+      "content": "Desenvolver o projeto do desafio",
+      "done": true
+    },
+    {
+      "id": 4,
+      "title": "Criar README do projeto",
+      "content": "O README deve conter:\n- Descrição\n- Requisitos\n- Link de documentaçẽs",
+      "done": false
+    },
+    {
+      "id": 5,
+      "title": "Criar estruturas baseadas em níveis",
+      "content": "Níveis:\n- Básico\n- Intermediário",
+      "done": false
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+.todo-card {
+    border-radius: 5px;
+    border-left: 8px solid #000;
+    width: 100%;
+    padding: 16px;
+    -webkit-box-shadow: 3px 5px 21px -7px rgba(204,198,204,1);
+    -moz-box-shadow: 3px 5px 21px -7px rgba(204,198,204,1);
+    box-shadow: 3px 5px 21px -7px rgba(204,198,204,1);
+
+    &--done {
+        border-color: #8b8f93;
+    }
+
+    &__content {
+        & p:nth-of-type(1) {
+            font-weight: 700;
+            font-size: 18px;
+        }
+
+        &--done {
+            text-decoration: line-through;
+            color: #8b8f93;
+        }
+    }
+
+    &__actions {
+        &__checkbox {
+            height: 19px;
+            width: 19px;
+        }
+
+        &__buttons {
+            button {
+                border: none;
+                border-radius: 5px;
+                background: none;
+                height: min-content;
+            }
+        }
+    }
+}
