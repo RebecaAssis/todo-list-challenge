@@ -30,19 +30,19 @@ Neste desafio, você deverá criar uma aplicação de ToDo List utilizando Angul
 
 ##### Inserção de Tarefas:
 
-:eight_spoked_asterisk: A aplicação deve possuir dois campos de input, um para o título da tarefa e outro para a descrição.
+:eight_spoked_asterisk: A aplicação deve possuir dois campos de input, um para o título da tarefa e outro para a descrição. <br>
 :eight_spoked_asterisk: O preenchimento do campo de título é obrigatório. O botão de Criar ou Editar só deve ser habilitado quando o título for preenchido.
 
 ##### Listagem de Tarefas:
 
-:eight_spoked_asterisk: As tarefas criadas devem ser exibidas em forma de cards, contendo o título e a descrição fornecidos pelo usuário.
-:eight_spoked_asterisk: Cada card deve ter um checkbox que permita marcar a tarefa como concluída (done) ou não concluída.
+:eight_spoked_asterisk: As tarefas criadas devem ser exibidas em forma de cards, contendo o título e a descrição fornecidos pelo usuário. <br>
+:eight_spoked_asterisk: Cada card deve ter um checkbox que permita marcar a tarefa como concluída (done) ou não concluída. <br>
 :eight_spoked_asterisk: Ao marcar o checkbox, o estado da tarefa deve ser atualizado visualmente para indicar que está concluída.
 
 ##### Edição de Tarefas:
 
-:eight_spoked_asterisk: Cada card deve ter um botão de Editar.
-:eight_spoked_asterisk: Ao clicar em Editar, os campos de input devem ser populados com o título e a descrição da tarefa selecionada.
+:eight_spoked_asterisk: Cada card deve ter um botão de Editar. <br>
+:eight_spoked_asterisk: Ao clicar em Editar, os campos de input devem ser populados com o título e a descrição da tarefa selecionada. <br>
 :eight_spoked_asterisk: O botão de criar deve mudar sua função para Editar, permitindo que as modificações sejam salvas.
 
 ##### Exclusão de Tarefas:
@@ -51,10 +51,10 @@ Neste desafio, você deverá criar uma aplicação de ToDo List utilizando Angul
 
 ##### Considerações Finais:
 
-:eight_spoked_asterisk: A aplicação deve ser responsiva, garantindo uma boa experiência tanto em dispositivos móveis quanto em desktops.
-:eight_spoked_asterisk: O design pode ser simples, mas deve ser claro e funcional.
-:eight_spoked_asterisk: Você pode utilizar CSS, SCSS, SASS ou frameworks de UI à sua escolha para estilizar a aplicação.
-:eight_spoked_asterisk: O projeto já possui Bootstrap instalado, mas o uso é opcional. Lembre-se, você pode utilizar outros framewoks, como dito acima
+:eight_spoked_asterisk: A aplicação deve ser responsiva, garantindo uma boa experiência tanto em dispositivos móveis quanto em desktops. <br>
+:eight_spoked_asterisk: O design pode ser simples, mas deve ser claro e funcional. <br>
+:eight_spoked_asterisk: Você pode utilizar CSS, SCSS, SASS ou frameworks de UI à sua escolha para estilizar a aplicação. <br>
+:eight_spoked_asterisk: O projeto já possui Bootstrap instalado, mas o uso é opcional. Lembre-se, você pode utilizar outros framewoks, como dito acima. <br>
 :eight_spoked_asterisk: Certifique-se de seguir as boas práticas de programação e de estruturação de código no Angular.
 
 ##### NÍVEL BÁSICO
