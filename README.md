@@ -6,7 +6,7 @@
 </div>
 
 ## Descrição
-Este projeto foi criado com o intuito de compartilhar conhecimento com aqueles ques estão iniciando na área. Eu sei o quão importante é encontrar materiais como esse no ínicio da nossa jornada como desenvolvedor. Assim como os projetos e desafios disponibilizados na comunidade me desafiaram e me ajudaram a evoluir, eu espero que este também possa te ajudar. :heart:
+Este projeto foi criado com o intuito de compartilhar conhecimento com aqueles que estão iniciando na área. Eu sei o quão importante é encontrar materiais como esse no ínicio da nossa jornada como desenvolvedor. Assim como os projetos e desafios disponibilizados na comunidade me desafiaram e me ajudaram a evoluir, eu espero que este também possa te ajudar. :heart:
 
 O projeto contempla o desenvolvimento de uma simples ToDo List, onde o usuário tem a possibilidade de **criar**, **ler**, **atualizar** e **deletar** os itens da lista, e, você dev :superhero_woman:, poderá por em prática:
 
