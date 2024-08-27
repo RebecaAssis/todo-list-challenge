@@ -135,7 +135,7 @@ Neste projeto eu simulando uma REST API utilizando JSON Server.
 
 
 ## Para saber mais
-* **GitHub**: Criando e gerenciando repositŕios -  https://docs.github.com/pt/repositories/creating-and-managing-repositories/quickstart-for-repositories
+* **GitHub**: Criando e gerenciando repositórios -  https://docs.github.com/pt/repositories/creating-and-managing-repositories/quickstart-for-repositories
 * **HTML:** https://www.w3schools.com/html/
 * **CSS:** https://www.w3schools.com/css/default.asp
 * **Arrays:** https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array
@@ -156,6 +156,6 @@ Obrigada por chegar até aqui! <br>
 Lembre-se: divulgue seus projetos e matenha o seu GitHub atualizado. Para quem ainda não possui experiência na área, é uma excelente forma de conhecerem o seu trabalho. <br>
 Sucesso na sua jornada. :star_struck: :rocket: 
 
-Ah, se tiver dúvidas ou quiser bater um papo sobre Desenvolvimento Frontend me chama no LikedIn. Vou ficar feliz em ajudar. :wink: <br>
+Ah, se tiver dúvidas ou quiser bater um papo sobre Desenvolvimento Frontend, me chama no LikedIn. Vou ficar feliz em ajudar. :wink: <br>
 https://www.linkedin.com/in/rebeca-oliveira-assis/
 
