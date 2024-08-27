@@ -140,7 +140,7 @@ Neste projeto eu simulando uma REST API utilizando JSON Server.
 * **CSS:** https://www.w3schools.com/css/default.asp
 * **Arrays:** https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array
 * **Objetos:** https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object
-* **Documentação Angular:** https://v13.angular.io/start 
+* **Documentação Angular:** https://v13.angular.io/start <br>
 Esse tutorial :point_up_2: da própria documentação do Angular tem meu coração :heart:
 * **Compartilhando dados entre componentes utilizando **@Input()** e **@Output**:** https://v13.angular.io/guide/inputs-outputs
 * **Rotas:** https://v13.angular.io/guide/router
