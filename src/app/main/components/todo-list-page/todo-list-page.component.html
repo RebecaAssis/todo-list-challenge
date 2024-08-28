@@ -1,22 +1,5 @@
 <form 
     class="d-flex flex-column p-3 justify-content-center gap-5 todo-page"
 >
-    <app-todo-input 
-        [form]="form" 
-        (createTodoEvent)="createTodo()"
-        (updateTodoEvent)="updateTodo()"
-    >
-    </app-todo-input>
-    <div class="d-flex flex-column gap-3">
-        <div *ngFor="let todo of todoList">
-            <app-todo-card 
-                [form]="form" 
-                [todo]="todo" 
-                (deleteTodoEvent)="deleteTodo($event)"
-                (updateTodoEvent)="editTodo($event)"
-                (toggleTodoStatusEvent)="toggleTodoStatus($event)"
-            >
-            </app-todo-card>
-        </div>
-    </div>
+    <app-todo-input [form]="form"></app-todo-input>
 </form>

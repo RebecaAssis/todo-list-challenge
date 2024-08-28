@@ -22,8 +22,7 @@ export class TodoInputComponent implements OnInit {
   }
 
   updateTodo () {
-    this.updateTodoEvent.emit()
-    'chamou'
+    this.updateTodoEvent.emit();
   }
 
 }

@@ -7,14 +7,12 @@ import { TodoInputComponent } from './components/todo-input/todo-input.component
 import { ReactiveFormsModule } from '@angular/forms';
 import {HttpClientModule} from '@angular/common/http';
 import { TodoService } from './services/todo.service';
-import { TodoCardComponent } from './components/todo-card/todo-card.component';
 
 
 @NgModule({
   declarations: [
     TodoListPageComponent,
-    TodoInputComponent,
-    TodoCardComponent
+    TodoInputComponent
   ],
   imports: [
     CommonModule,
