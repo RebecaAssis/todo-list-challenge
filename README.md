@@ -111,6 +111,7 @@ Para subir a branch que você clonou para o seu novo repositório, utilize:
 ```
 git push -u origin <branch-name>
 ```
+**Obs:** Você também está livre para criar a sua estutura do projeto totalmente do zero! 
 
 ## Configurações do projeto
 -  [Angular CLI](https://github.com/angular/angular-cli) versão 13.1.2.
